@@ -2,7 +2,7 @@
 	<head>
 		<link rel="stylesheet" href="resources/style.css">
 	</head>
-	<body bgcolor="black">
+	<body>
 	<h1>
 		Discover hidden places in the world around you
 	</h1>
